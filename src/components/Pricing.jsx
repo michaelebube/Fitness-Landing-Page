@@ -1,5 +1,5 @@
 import React from 'react'
-import PricingBg from '../assets/PricingBg.webp'
+import PricingBg from '../assets/PricingBg.png'
 import pricingData from '../pricingData'
 import PricingProfile from './pricingProfile'
 

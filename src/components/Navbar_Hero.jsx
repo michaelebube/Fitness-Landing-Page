@@ -1,6 +1,6 @@
 import React from 'react'
-import Logo from '../assets/Logo.png'
-import HeroImg from '../assets/HeroImg.png'
+import Logo from '../assets/Logo.webp'
+import HeroImg from '../assets/HeroImg.webp'
 
 const BgStyle = {
     backgroundImage: `url(${HeroImg})`,

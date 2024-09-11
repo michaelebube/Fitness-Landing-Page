@@ -1,7 +1,7 @@
-import Trainer1 from '../src/assets/Trainer-1.png'
-import Trainer2 from '../src/assets/Trainer-2.png'
-import Trainer3 from '../src/assets/Trainer-3.png'
-import Trainer4 from '../src/assets/Trainer-4.png'
+import Trainer1 from '../src/assets/Trainer-1.webp'
+import Trainer2 from '../src/assets/Trainer-2.webp'
+import Trainer3 from '../src/assets/Trainer-3.webp'
+import Trainer4 from '../src/assets/Trainer-4.webp'
 
 const data = [
      {

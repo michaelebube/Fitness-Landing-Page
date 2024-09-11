@@ -1,5 +1,5 @@
 import React from 'react'
-import Polygon from '../assets/About Polygon.webp'
+import Polygon from '../assets/About-Polygon.webp'
 import PolygonImg from '../assets/PolygonImg.webp'
 
 const About = () => {

@@ -5,8 +5,8 @@ import PolygonImg from '../assets/PolygonImg.webp'
 const About = () => {
   return (
     <>
-        <div id='about-us' className='w-full xs:h-[300px] sm:h-[500px] md:h-[650px] lg:h-[700px] xl:h-[800px] bg-primaryColor font-lato'>
-            <div className='grid grid-cols-2 gap-2 xs:py-[40px] sm:py-[70px] xs:px-6 md:py-[100px] sm:px-12 xl:px-[100px]'>
+        <div id='about-us' className='w-full xs:h-[320px] sm:h-[500px] md:h-[650px] lg:h-[700px] xl:h-[800px] bg-primaryColor font-lato'>
+            <div className='grid grid-cols-2 xs:gap-[10%] sm:gap-2 xs:py-[40px] sm:py-[70px] xs:px-6 md:py-[100px] sm:px-12 xl:px-[100px]'>
                 <div className='flex flex-col sm:space-y-2'>
                     <div className='flex gap-1'>
                         <h1 className='text-secondaryColor2 sm:text-2xl md:text-3xl lg:text-4xl xl:text-[36px]'>ABOUT</h1>
@@ -27,9 +27,9 @@ const About = () => {
                 </div>
                 
                 <div>
-                    <div className='relative xs:ml-3 xs:my-[60px] sm:py-[3px] sm:my-16 md:my-18 lg:my-15 lg:p-2 sm:mx-2 md:mx-5 xl:ml-[80px]'>
+                    <div className='relative xs:ml-3 xs:my-[60px] sm:py-[3px] sm:my-16 md:my-24 lg:my-15 lg:p-2 sm:mx-2 md:mx-5 xl:ml-[80px]'>
                         <div className='absolute inset-0 bg-primaryColor opacity-50 z-10'></div>
-                        <img src= {Polygon} className=' h-auto' alt="" />
+                        <img src= {Polygon} className=' xs:h-[150px] sm:h-auto' alt="" />
                         <img src={PolygonImg} alt="" className='absolute inset-0 h-full object-cover' style={{ clipPath: 'polygon(50% 0%, 90% 21%, 100% 64%, 72% 100%, 28% 100%, 2% 60%, 10% 20%)' }} 
 />
 

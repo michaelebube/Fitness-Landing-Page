@@ -48,7 +48,7 @@ const Navbar_Hero = () => {
                         
                 </div>
 
-                <div className='flex flex-col space-y-2 xs:px-6 sm:px-12 xl:px-[100px] xs:pt-[40px] sm:pt-[120px] lg:pt-[100px] xl:pt-[70px]  '>
+                <div className='flex flex-col space-y-2 xs:px-6 sm:px-12 xl:px-[100px] xs:pt-[40px] sm:pt-[25%] md:pt-[20%] lg:pt-[18%] xl:pt-[70px]  '>
                     <div className='text-white xs:text-5xl sm:text-7xl md:text-8xl lg:text-[110px] 2xl:text-[130px] font-bebasNeue '>
                         <h1>BUILD</h1>
                         
